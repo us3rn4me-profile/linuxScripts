@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-directory=$(pwd])
+directory=$(pwd)
 MP4=$(ls $directory | grep .mp4)
 for filename in $MP4
 do
