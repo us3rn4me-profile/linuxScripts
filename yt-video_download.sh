@@ -8,5 +8,5 @@ youtube-dl --list-formats $URL
 echo
 echo "Select format:"
 read format
-youtube-dl -f $format $URL && echo -e "\033[32mThe download finished"
+youtube-dl -cf $format $URL && echo -e "\033[32mThe download finished"
 
