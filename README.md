@@ -11,3 +11,4 @@
 * [remove-old_software_packages](/remove-old_software_packages.sh) - удаляет старые пакеты программ.
 * [tar.gz-current_folder](/tar.gz-current_folder.sh) - создает архив **tar.gz** текущего каталога.
 * [yt-video_download](/yt-video_download.sh) - скрипт для скачивания с различных платформ, в основном с YouTube, видео
+* [lamp](./lamp.sh) - скрипт, который изменяет конфиги Apache, Mysql, php, для того, чтобы запускать сервер
